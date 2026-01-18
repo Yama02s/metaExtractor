@@ -7,6 +7,7 @@ La herramienta utiliza "ExifTool" para el análisis profundo, pero limpia la sal
 Necesitas tener instalado "exiftool" en tu sistema (Kali Linux, Parrot OS, Ubuntu):
 
 sudo apt update
+
 sudo apt install libimage-exiftool-perl
 
 [+]Uso:
